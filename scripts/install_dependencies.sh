@@ -1,4 +1,4 @@
 #!/bin/bash
 
-mkdir ./nn
+sudo mkdir ./nn
 
