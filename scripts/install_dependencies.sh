@@ -1,4 +1,5 @@
 #!/bin/bash
 
-sudo mkdir ./nn
+cd ~/
+mkdir ./nn
 
