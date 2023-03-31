@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /var/www/
-mkdir ./nn
+# cd /var/www/
+# mkdir ./nn
 
